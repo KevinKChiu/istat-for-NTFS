@@ -1,0 +1,2 @@
+# istat for NTFS
+ 
